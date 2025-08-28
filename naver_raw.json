@@ -1,0 +1,2207 @@
+{
+  "code": 200,
+  "success": true,
+  "result": {
+    "templates": [
+      {
+        "itemId": "1747637458470",
+        "templateId": "image_block_feed",
+        "json": {
+          "wvbMappingId": null,
+          "head": {
+            "dataId": 1747637460904,
+            "isEnable": "Y",
+            "templateType": "normal",
+            "matchBoxOn": "off",
+            "adDisplay": "off",
+            "adType": "common",
+            "isPcRight": "Y"
+          },
+          "isPcRight": "Y",
+          "dataList": [
+            {
+              "dataId": 1750927481485,
+              "isEnable": "Y",
+              "title": "노경은의 야구는 멈추지 않는다!",
+              "url": "https://m.blog.naver.com/landersstory/223912962807",
+              "moreViewText": "노경은 기록 더보기",
+              "moreViewUrl": "https://m.sports.naver.com/player/index?playerId=73211&category=kbo&tab=record",
+              "mainImage": "https://sports-phinf.pstatic.net/20250626_52/1750927529351pXyyY_JPEG/PC_810x808.jpg"
+            }
+          ]
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637409493",
+        "templateId": "mobile_issue_pick_v2_rel",
+        "json": {
+          "sectionName": "KBASEBALL",
+          "adPackageName": "KBASEBALL",
+          "isPcRight": "N",
+          "enableItems": [],
+          "hasAd": false,
+          "videoRankingsForHomeFeed": [],
+          "title": "야구 이슈 PICK",
+          "videoRankings": [
+            {
+              "ranking": 1,
+              "videoMasterId": 1348822,
+              "title": "엄청난 각도... \"김서현 고속 슬라이더\"",
+              "count": 840,
+              "section": "kbaseball",
+              "categoryId": "baseballlesson",
+              "thumbnail": "https://phinf.pstatic.net/tvcast/20250628_287/ZOLtR_175110983294282WJc_JPEG/qxd2sQsW22_10.jpg",
+              "videoType": "shortform",
+              "playTime": "00:00:12",
+              "masterVid": "5FBEA668BC08179BFD897EADAFDB4C53A9FA",
+              "channelId": "kbotalk",
+              "channelName": "크보톡 KBO Talk",
+              "url": "https://m.naver.com/shorts/?videoId=5FBEA668BC08179BFD897EADAFDB4C53A9FA&serviceType=SPORTS&recType=SPORTS&mediaType=VOD",
+              "gameId": "20250628HHSK02025",
+              "smrClipId": null,
+              "homeTeamCode": null,
+              "awayTeamCode": null,
+              "homeTeamName": null,
+              "awayTeamName": null,
+              "seasonCode": "kbotalk",
+              "gameDateTime": [
+                2025,
+                6,
+                28,
+                17,
+                0
+              ]
+            },
+            {
+              "ranking": 2,
+              "videoMasterId": 1348777,
+              "title": "도파민 뿜뿜 데뷔 홈런 리베라토 역전 쓰리런",
+              "count": 734,
+              "section": "kbaseball",
+              "categoryId": "baseballlesson",
+              "thumbnail": "https://phinf.pstatic.net/tvcast/20250628_112/K0Nua_17511057637249yPxU_JPEG/LpIcSB1vUP_03.jpg",
+              "videoType": "shortform",
+              "playTime": "00:00:39",
+              "masterVid": "00C340902F8534DAE49A5E6AB59380C3317C",
+              "channelId": "yachin",
+              "channelName": "야친 (야구친구)",
+              "url": "https://m.naver.com/shorts/?videoId=00C340902F8534DAE49A5E6AB59380C3317C&serviceType=SPORTS&recType=SPORTS&mediaType=VOD",
+              "gameId": "20250628HHSK02025",
+              "smrClipId": null,
+              "homeTeamCode": null,
+              "awayTeamCode": null,
+              "homeTeamName": null,
+              "awayTeamName": null,
+              "seasonCode": "yachin",
+              "gameDateTime": [
+                2025,
+                6,
+                28,
+                17,
+                0
+              ]
+            },
+            {
+              "ranking": 3,
+              "videoMasterId": 1348698,
+              "title": "랜더스 팬들의 눈물샘을 자극하는 교체..",
+              "count": 382,
+              "section": "kbaseball",
+              "categoryId": "baseballlesson",
+              "thumbnail": "https://phinf.pstatic.net/tvcast/20250628_17/W0izy_17510980387238sMMx_JPEG/3B18CE91-0442-432E-A3BB-5845954E75AC.jpg",
+              "videoType": "shortform",
+              "playTime": "00:00:39",
+              "masterVid": "1E068672713FE4411D69B6439C315D47F7D6",
+              "channelId": "kbomaster",
+              "channelName": "크보박사",
+              "url": "https://m.naver.com/shorts/?videoId=1E068672713FE4411D69B6439C315D47F7D6&serviceType=SPORTS&recType=SPORTS&mediaType=VOD",
+              "gameId": "20250628HHSK02025",
+              "smrClipId": null,
+              "homeTeamCode": null,
+              "awayTeamCode": null,
+              "homeTeamName": null,
+              "awayTeamName": null,
+              "seasonCode": "kbomaster",
+              "gameDateTime": [
+                2025,
+                6,
+                28,
+                17,
+                0
+              ]
+            },
+            {
+              "ranking": 4,
+              "videoMasterId": 1348792,
+              "title": "김석환의 적시타 다시 앞서가는 기아",
+              "count": 317,
+              "section": "kbaseball",
+              "categoryId": "baseballlesson",
+              "thumbnail": "https://phinf.pstatic.net/tvcast/20250628_120/aiXzj_1751107719293jEMQ3_JPEG/IA6etGddRL_10.jpg",
+              "videoType": "shortform",
+              "playTime": "00:00:20",
+              "masterVid": "44D60CF8DDF150673BCD556B6970DAB5BB8D",
+              "channelId": "yazalzal",
+              "channelName": "스포츠디비 SportsDB",
+              "url": "https://m.naver.com/shorts/?videoId=44D60CF8DDF150673BCD556B6970DAB5BB8D&serviceType=SPORTS&recType=SPORTS&mediaType=VOD",
+              "gameId": "20250628HTLG02025",
+              "smrClipId": null,
+              "homeTeamCode": null,
+              "awayTeamCode": null,
+              "homeTeamName": null,
+              "awayTeamName": null,
+              "seasonCode": "howtosports38",
+              "gameDateTime": [
+                2025,
+                6,
+                28,
+                17,
+                0
+              ]
+            },
+            {
+              "ranking": 5,
+              "videoMasterId": 1348738,
+              "title": "훈훈한 KBO",
+              "count": 293,
+              "section": "kbaseball",
+              "categoryId": "baseballlesson",
+              "thumbnail": "https://phinf.pstatic.net/tvcast/20250628_69/9CNiE_1751102793795LtCgB_JPEG/O6BZEbM3qd_03.jpg",
+              "videoType": "shortform",
+              "playTime": "00:00:08",
+              "masterVid": "E1FA39B99179E256F2449AC06DAD53586AD8",
+              "channelId": "yazalzal",
+              "channelName": "스포츠디비 SportsDB",
+              "url": "https://m.naver.com/shorts/?videoId=E1FA39B99179E256F2449AC06DAD53586AD8&serviceType=SPORTS&recType=SPORTS&mediaType=VOD",
+              "gameId": "20250628SSWO02025",
+              "smrClipId": null,
+              "homeTeamCode": null,
+              "awayTeamCode": null,
+              "homeTeamName": null,
+              "awayTeamName": null,
+              "seasonCode": "howtosports38",
+              "gameDateTime": [
+                2025,
+                6,
+                28,
+                17,
+                0
+              ]
+            },
+            {
+              "ranking": 6,
+              "videoMasterId": 1348829,
+              "title": "짐승의 시계를 한국시리즈로 돌립니다",
+              "count": 286,
+              "section": "kbaseball",
+              "categoryId": "baseballlesson",
+              "thumbnail": "https://phinf.pstatic.net/tvcast/20250628_224/EymI0_1751110910590tSgBQ_JPEG/z7JXMW7yDb_10.jpg",
+              "videoType": "shortform",
+              "playTime": "00:00:59",
+              "masterVid": "864D0CBF195566CC4FA374EB2D927273F375",
+              "channelId": "yazalzal",
+              "channelName": "스포츠디비 SportsDB",
+              "url": "https://m.naver.com/shorts/?videoId=864D0CBF195566CC4FA374EB2D927273F375&serviceType=SPORTS&recType=SPORTS&mediaType=VOD",
+              "gameId": "20250628HHSK02025",
+              "smrClipId": null,
+              "homeTeamCode": null,
+              "awayTeamCode": null,
+              "homeTeamName": null,
+              "awayTeamName": null,
+              "seasonCode": "howtosports38",
+              "gameDateTime": [
+                2025,
+                6,
+                28,
+                17,
+                0
+              ]
+            }
+          ]
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637268740",
+        "templateId": "shortents",
+        "json": {
+          "wvbMappingId": null,
+          "head": {
+            "dataId": 1747637271804,
+            "isEnable": "Y",
+            "title": "",
+            "isPcRight": "Y"
+          },
+          "isPcRight": "Y",
+          "dataList": []
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637278503",
+        "templateId": "my_team_home_feed",
+        "json": {
+          "isPcRight": "Y",
+          "teamList": [
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "HT",
+              "teamName": "KIA",
+              "favoriteCount": "548867",
+              "lastRank": "1",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HT.png?type=f108_108",
+              "teamBg": "#A32525",
+              "teamColor": "#FFFFFF",
+              "teamColor2": "#AB3848",
+              "teamColor2Dark": "#D86272",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "SS",
+              "teamName": "삼성",
+              "favoriteCount": "396648",
+              "lastRank": "2",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SS.png?type=f108_108",
+              "teamBg": "#0472C4",
+              "teamColor": "#FFFFFF",
+              "teamColor2": "#048DDA",
+              "teamColor2Dark": "#46B1ED",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "LG",
+              "teamName": "LG",
+              "favoriteCount": "398454",
+              "lastRank": "3",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LG.png?type=f108_108",
+              "teamBg": "#C63751",
+              "teamColor": "#FFFFFF",
+              "teamColor2": "#DA3E59",
+              "teamColor2Dark": "#EE667E",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "OB",
+              "teamName": "두산",
+              "favoriteCount": "328755",
+              "lastRank": "4",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/OB.png?type=f108_108",
+              "teamBg": "#131230",
+              "teamColor": "#FFFFFF",
+              "teamColor2": "#ED1C24",
+              "teamColor2Dark": "#EA5E64",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "KT",
+              "teamName": "KT",
+              "favoriteCount": "88449",
+              "lastRank": "5",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/KT.png?type=f108_108",
+              "teamBg": "#231f20",
+              "teamColor": "#EEEEEE",
+              "teamColor2": "#ec1d24",
+              "teamColor2Dark": "#ea5E64",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "SK",
+              "teamName": "SSG",
+              "favoriteCount": "200716",
+              "lastRank": "6",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SK.png?type=f108_108",
+              "teamBg": "#B42C4D",
+              "teamColor": "#fffADD",
+              "teamColor2": "#D0324A",
+              "teamColor2Dark": "#EF6579",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "LT",
+              "teamName": "롯데",
+              "favoriteCount": "447318",
+              "lastRank": "7",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LT.png?type=f108_108",
+              "teamBg": "#082C5A",
+              "teamColor": "#FF7E9E",
+              "teamColor2": "#D11E37",
+              "teamColor2Dark": "#E45E71",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "HH",
+              "teamName": "한화",
+              "favoriteCount": "515860",
+              "lastRank": "8",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HH.png?type=f108_108",
+              "teamBg": "#ED7C3D",
+              "teamColor": "#FFFFFF",
+              "teamColor2": "#EF5627",
+              "teamColor2Dark": "#F37650",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "NC",
+              "teamName": "NC",
+              "favoriteCount": "162587",
+              "lastRank": "9",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/NC.png?type=f108_108",
+              "teamBg": "#1d467d",
+              "teamColor": "#e3C7A7",
+              "teamColor2": "#A17447",
+              "teamColor2Dark": "#CEA47B",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            },
+            {
+              "myTeamCategoryCode": "kbo",
+              "myTeamCategoryName": "KBO리그",
+              "superCategoryId": "baseball",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "teamCode": "WO",
+              "teamName": "키움",
+              "favoriteCount": "141301",
+              "lastRank": "10",
+              "logoImageUrl": "https://sports-phinf.pstatic.net/team/kbo/default/WO.png?type=f108_108",
+              "teamBg": "#6C1126",
+              "teamColor": "#f1cea6",
+              "teamColor2": "#D19D60",
+              "teamColor2Dark": "#D19D60",
+              "gameStatusCode": "RESULT",
+              "hasTodaySchedule": true,
+              "liveOn": false
+            }
+          ]
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637289718",
+        "templateId": "home_shortcut_feed",
+        "json": {
+          "wvbMappingId": null,
+          "head": {
+            "dataId": 1747637292676,
+            "isEnable": "Y",
+            "title": "",
+            "isPcRight": "Y"
+          },
+          "isPcRight": "Y",
+          "dataList": [
+            {
+              "dataId": 1747637299762,
+              "isEnable": "Y",
+              "title": "오늘의 경기",
+              "typeIcon": "Y",
+              "url": "https://m.sports.naver.com/scoreboard/index?section=kbaseball",
+              "labelUseYn": "N",
+              "labelColor": "#F4361E",
+              "shortcutLabel": "",
+              "image": "https://sports-phinf.pstatic.net/20241122_53/1732266480060HvaTp_PNG/ico_today_game.png",
+              "darkImage": "https://sports-phinf.pstatic.net/20241122_148/1732266492854G0Tcv_PNG/ico_today_game_dark.png"
+            },
+            {
+              "dataId": 1747637316956,
+              "isEnable": "Y",
+              "title": "승부예측",
+              "typeIcon": "Y",
+              "url": "https://m.sports.naver.com/predict?tab=today&groupId=kbaseball&categoryId=kbo",
+              "labelUseYn": "N",
+              "labelColor": "#3283FD",
+              "shortcutLabel": "",
+              "image": "https://sports-phinf.pstatic.net/20241122_93/1732266531734e0JLO_PNG/ico_forecast.png",
+              "darkImage": "https://sports-phinf.pstatic.net/20241122_123/17322665477341JqYg_PNG/ico_forecast_dark.png"
+            },
+            {
+              "dataId": 1747637332034,
+              "isEnable": "Y",
+              "title": "연재",
+              "typeIcon": "Y",
+              "url": "https://m.sports.naver.com/column/press/columnist?categoryId=KBASEBALL",
+              "labelUseYn": "N",
+              "labelColor": "#3283FD",
+              "shortcutLabel": "",
+              "image": "https://sports-phinf.pstatic.net/20241122_15/17322665633224QJxn_PNG/ico_journalist.png",
+              "darkImage": "https://sports-phinf.pstatic.net/20241122_168/1732266571503u8FSl_PNG/ico_journalist_dark.png"
+            },
+            {
+              "dataId": 1747637347304,
+              "isEnable": "Y",
+              "title": "이슈톡",
+              "typeIcon": "Y",
+              "url": "https://m.sports.naver.com/community/issuetalk/index",
+              "labelUseYn": "N",
+              "labelColor": "#3283FD",
+              "shortcutLabel": "",
+              "image": "https://sports-phinf.pstatic.net/20241122_86/1732266612562A8Ook_PNG/lico_issue_talk.png",
+              "darkImage": "https://sports-phinf.pstatic.net/20241122_222/1732266596062nNhu7_PNG/ico_issue_talk_dark.png"
+            },
+            {
+              "dataId": 1747637365879,
+              "isEnable": "Y",
+              "title": "오픈톡",
+              "typeIcon": "Y",
+              "url": "https://talks.naver.com/?frm=pcgnb&anchor=sports&category=BASEBALL_KOREA",
+              "labelUseYn": "N",
+              "labelColor": "#3283FD",
+              "shortcutLabel": "",
+              "image": "https://sports-phinf.pstatic.net/20241122_256/1732267317209CSkEx_PNG/ico_opentalk.png",
+              "darkImage": "https://sports-phinf.pstatic.net/20241122_202/1732266644416rKvML_PNG/ico_opentalk_dark.png"
+            }
+          ]
+        },
+        "html": null
+      },
+      {
+        "itemId": "1749795612841",
+        "templateId": "home_promotion_banner_feed",
+        "json": {
+          "wvbMappingId": "1",
+          "isPcRight": "Y",
+          "image": "https://sports-phinf.pstatic.net/20250613_170/1749795731955QmvE8_PNG/2.%B3%D7%C0%CC%B9%F6%BE%EE%C7%C1%B7%CE%C4%A1%C0%CC%BA%A5%C6%AE_%B6%EC%B9%E8%B3%CA_v0.3.0_20250611.png",
+          "backgroundColor": "#0c5a10",
+          "title": "",
+          "pointText": "",
+          "url": "https://blog.naver.com/naver_sports/223898095431",
+          "pointColor": "#3283FD"
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637423904",
+        "templateId": "team_ranking_feed",
+        "json": {
+          "isPcRight": "Y",
+          "singleLeague": "kbo",
+          "title": "팀순위",
+          "leagueTabList": [
+            {
+              "ranking": [
+                {
+                  "teamName": "한화",
+                  "gameCount": 77,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "0.0",
+                  "hasMyTeamInfo": true,
+                  "lose": 31,
+                  "teamCode": "HH",
+                  "rank": 1,
+                  "draw": 1,
+                  "win": 45
+                },
+                {
+                  "teamName": "LG",
+                  "gameCount": 78,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "1.0",
+                  "hasMyTeamInfo": true,
+                  "lose": 32,
+                  "teamCode": "LG",
+                  "rank": 2,
+                  "draw": 2,
+                  "win": 44
+                },
+                {
+                  "teamName": "롯데",
+                  "gameCount": 79,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "3.0",
+                  "hasMyTeamInfo": true,
+                  "lose": 34,
+                  "teamCode": "LT",
+                  "rank": 3,
+                  "draw": 3,
+                  "win": 42
+                },
+                {
+                  "teamName": "KIA",
+                  "gameCount": 78,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "4.5",
+                  "hasMyTeamInfo": true,
+                  "lose": 35,
+                  "teamCode": "HT",
+                  "rank": 4,
+                  "draw": 3,
+                  "win": 40
+                },
+                {
+                  "teamName": "KT",
+                  "gameCount": 79,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "5.0",
+                  "hasMyTeamInfo": true,
+                  "lose": 36,
+                  "teamCode": "KT",
+                  "rank": 5,
+                  "draw": 3,
+                  "win": 40
+                },
+                {
+                  "teamName": "SSG",
+                  "gameCount": 77,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "6.0",
+                  "hasMyTeamInfo": true,
+                  "lose": 36,
+                  "teamCode": "SK",
+                  "rank": 6,
+                  "draw": 3,
+                  "win": 38
+                },
+                {
+                  "teamName": "삼성",
+                  "gameCount": 78,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "6.5",
+                  "hasMyTeamInfo": true,
+                  "lose": 38,
+                  "teamCode": "SS",
+                  "rank": 7,
+                  "draw": 1,
+                  "win": 39
+                },
+                {
+                  "teamName": "NC",
+                  "gameCount": 75,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "7.5",
+                  "hasMyTeamInfo": true,
+                  "lose": 36,
+                  "teamCode": "NC",
+                  "rank": 8,
+                  "draw": 4,
+                  "win": 35
+                },
+                {
+                  "teamName": "두산",
+                  "gameCount": 78,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "14.5",
+                  "hasMyTeamInfo": true,
+                  "lose": 45,
+                  "teamCode": "OB",
+                  "rank": 9,
+                  "draw": 3,
+                  "win": 30
+                },
+                {
+                  "teamName": "키움",
+                  "gameCount": 81,
+                  "myTeamCategoryId": "kbo",
+                  "gamesBehind": "22.0",
+                  "hasMyTeamInfo": true,
+                  "lose": 54,
+                  "teamCode": "WO",
+                  "rank": 10,
+                  "draw": 3,
+                  "win": 24
+                }
+              ],
+              "categoryId": "kbo"
+            }
+          ],
+          "categoryId": null,
+          "moreViewTitle": "팀순위 자세히 보기"
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637438572",
+        "templateId": "opentalk_feed",
+        "json": {
+          "moreButtonTitle": "오픈톡 더보기",
+          "isPcRight": "Y",
+          "dataList": {
+            "loungeTalks": [
+              {
+                "channelId": "N1uQt",
+                "channelName": "한화 이글스",
+                "channelProfileImageUrl": "https://openchat-phinf.pstatic.net/MjAyNDExMjdfMTA0/MDAxNzMyNjk1ODI1MDIy.dGDoDQH1vexKF850TPvbXGYce_SXo_tRJlTS3XB0th4g.P1TM3nAZIBLMqKLMpMBXisnk-CbcjsVSDMSP2fmt0Dkg.PNG/Zwhja24tQ2e4ZfMIrQMYbQ.png",
+                "description": "최강 한화! 이글스의 불꽃을 함께 피워요",
+                "recentVisitCount": 231845,
+                "lastUpdateTime": 1751130782568,
+                "recentMessages": [
+                  {
+                    "content": "최인호도 좋다",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130782568
+                  },
+                  {
+                    "content": "최이노",
+                    "nickname": "밥먹는 바다사자",
+                    "createTime": 1751130776526
+                  },
+                  {
+                    "content": "최재훈 ㅋ",
+                    "nickname": "jayz74",
+                    "createTime": 1751130767209
+                  },
+                  {
+                    "content": "모라구여?",
+                    "nickname": "목마른 너구리",
+                    "createTime": 1751130763948
+                  },
+                  {
+                    "content": "4할인데 ㅋ",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130751690
+                  },
+                  {
+                    "content": "으니…우리여………..",
+                    "nickname": "목마른 너구리",
+                    "createTime": 1751130728290
+                  },
+                  {
+                    "content": "송성문이죠 현시점 리그최강타자는",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130717859
+                  },
+                  {
+                    "content": "타자중엔  요즘폼으론 누가 젤 나은 거 같애여?",
+                    "nickname": "목마른 너구리",
+                    "createTime": 1751130705388
+                  },
+                  {
+                    "content": "매치업도 나쁘진 않아요 라일리는 와이스가.어떻게 해보고 최성영이랑 신민혁이던가",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130703205
+                  },
+                  {
+                    "content": "엄상백보다 황준서나 김기중이 나아보임",
+                    "nickname": "똘똘한 퓨마",
+                    "createTime": 1751130690067
+                  },
+                  {
+                    "content": "고척도 스윕 했엇고",
+                    "nickname": "최강꼬꼬댁",
+                    "createTime": 1751130683280
+                  },
+                  {
+                    "content": "그다음 키움 고척전 있고",
+                    "nickname": "최강꼬꼬댁",
+                    "createTime": 1751130677874
+                  },
+                  {
+                    "content": "우린 대전에서 엔씨 스윕 기억이 있음",
+                    "nickname": "최강꼬꼬댁",
+                    "createTime": 1751130672240
+                  },
+                  {
+                    "content": "평균자책이 3.5 이하인 팀이 우리밖에 없는데 진짜 수비팀으로 색깔을 잡은 듯. 엄상백까지 만약에 잘해줬다면 진짜 3점 초반이었다",
+                    "nickname": "똘똘한 퓨마",
+                    "createTime": 1751130666881
+                  },
+                  {
+                    "content": "그냥 눈이 높아진거에요",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130662837
+                  },
+                  {
+                    "content": "네 맞아여 엘지 다음주 롯데 삼성 만남",
+                    "nickname": "최강꼬꼬댁",
+                    "createTime": 1751130657201
+                  },
+                  {
+                    "content": "그게 폰와보다가 보니까 그렇지",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130656433
+                  },
+                  {
+                    "content": "엄상백은 2군서 푹쉬고 와도 될텐데..바로 올라오더만 또",
+                    "nickname": "jayz74",
+                    "createTime": 1751130651145
+                  },
+                  {
+                    "content": "엄상백은 볼넷을 넘 마니 주지 않아여.??",
+                    "nickname": "목마른 너구리",
+                    "createTime": 1751130642094
+                  },
+                  {
+                    "content": "심지어 엘-롯임",
+                    "nickname": "졸린 사자",
+                    "createTime": 1751130638467
+                  }
+                ]
+              },
+              {
+                "channelId": "N1uQr",
+                "channelName": "삼성 라이온즈",
+                "channelProfileImageUrl": "https://openchat-phinf.pstatic.net/MjAyMzAzMjdfMTM1/MDAxNjc5ODc5ODU1NTAy.fEjNiwlyml4_Pw1RYlUnenvKweEv6GaI4nxN0dE-Qzog.ipbk_8qRR7LlE3g19yGoZewKT0aE4u3uewEYcLAl99Yg.JPEG/5OkYbWDPTQmgufw8uGWhQ.jpg",
+                "description": "뜨거운 대구벌과 같은 열정으로 응원하자!",
+                "recentVisitCount": 103534,
+                "lastUpdateTime": 1751130775085,
+                "recentMessages": [
+                  {
+                    "content": "하네요",
+                    "nickname": "더위먹은 금붕어",
+                    "createTime": 1751130775085
+                  },
+                  {
+                    "content": "이때걍 우승했어야함",
+                    "nickname": "김민지",
+                    "createTime": 1751130774996
+                  },
+                  {
+                    "content": "김원형 감독 모셔왓음ㅎㅎ",
+                    "nickname": "더위먹은 금붕어",
+                    "createTime": 1751130772315
+                  },
+                  {
+                    "content": "그건 다들 그렇죠",
+                    "nickname": "용감한 펭귄",
+                    "createTime": 1751130767804
+                  },
+                  {
+                    "content": "우리는 20점차로 이기고있어도 불안함",
+                    "nickname": "김민지",
+                    "createTime": 1751130763847
+                  },
+                  {
+                    "content": "24년도에 너무 잘 해 버려서 실망감이 크긴 함",
+                    "nickname": "you",
+                    "createTime": 1751130758681
+                  },
+                  {
+                    "content": "홍단장을 진짜 만나신 적이 있다는거죠?",
+                    "nickname": "용감한 펭귄",
+                    "createTime": 1751130758450
+                  },
+                  {
+                    "content": "뭐 이제 이기고 있어도 질 것 같고 \n지고 있어도 못 따라가는거죠 ㅎㅎ",
+                    "nickname": "이제 모르겠다 ✨",
+                    "createTime": 1751130732401
+                  },
+                  {
+                    "content": "저도 솔직히 내부승격 + 순혈 반대임",
+                    "nickname": "용감한 펭귄",
+                    "createTime": 1751130727033
+                  },
+                  {
+                    "content": "이대로 가면 자진사퇴이야기 나올텐데",
+                    "nickname": "거상",
+                    "createTime": 1751130718611
+                  },
+                  {
+                    "content": "더이상 내부승격은 그만해야 할때죠",
+                    "nickname": "더위먹은 금붕어",
+                    "createTime": 1751130684596
+                  },
+                  {
+                    "content": "저는 뒤에서 늘 응원만 할게여 ㅎ",
+                    "nickname": "용감한 펭귄",
+                    "createTime": 1751130681170
+                  },
+                  {
+                    "content": "아니 애초에 지고있음 뭐라안하는데 맨날 이기고 있는경기지고",
+                    "nickname": "김민지",
+                    "createTime": 1751130679952
+                  },
+                  {
+                    "content": "사람들 견해는 다 다른거니깐요",
+                    "nickname": "you",
+                    "createTime": 1751130675732
+                  },
+                  {
+                    "content": "아 근데 어르신들은 진짜 낚여요 ㅠㅠ",
+                    "nickname": "용감한 펭귄",
+                    "createTime": 1751130664805
+                  },
+                  {
+                    "content": "솔까 진만이흉 경질 되면 한이흉이 맞다고 얘기는 했음",
+                    "nickname": "you",
+                    "createTime": 1751130657443
+                  },
+                  {
+                    "content": "너무 순진하셔 사람들ㅋㅋㅋ",
+                    "nickname": "친절한 고슴도치",
+                    "createTime": 1751130650955
+                  },
+                  {
+                    "content": "2군감독이랑 1군감독은 천지차이죠",
+                    "nickname": "더위먹은 금붕어",
+                    "createTime": 1751130645482
+                  },
+                  {
+                    "content": "펭귄님 가서 뛰시죠 ㅌㅎㅋㅎㅌㅎㅌㅎㅌㅎㅌ",
+                    "nickname": "이제 모르겠다 ✨",
+                    "createTime": 1751130645014
+                  },
+                  {
+                    "content": "참 야구 어렵다 어려워;;;;;",
+                    "nickname": "거상",
+                    "createTime": 1751130644790
+                  }
+                ]
+              },
+              {
+                "channelId": "N1uQh",
+                "channelName": "KIA 타이거즈",
+                "channelProfileImageUrl": "https://openchat-phinf.pstatic.net/MjAyMzAzMjdfMTY4/MDAxNjc5ODc5NDMxMTEy.e1ToHa4WZHdu2ZBB8BxLEXnGeK4C3eDqj1TVohGjYdMg.g3EWEn9zpYqzzLTCw-PttOiu8DXa5xpUUAqdA33rih0g.JPEG/gECGCk3kTzaafHmBkrK26Q.jpg",
+                "description": "남행열차! 타이거즈의 승리를 향해 달려요!",
+                "recentVisitCount": 117460,
+                "lastUpdateTime": 1751130786970,
+                "recentMessages": [
+                  {
+                    "content": "이상한애들 많앗나",
+                    "nickname": "도도킹",
+                    "createTime": 1751130786970
+                  },
+                  {
+                    "content": "어제 ㅠㅜ 롯데전 티켓팅 실패해서",
+                    "nickname": "우석잉",
+                    "createTime": 1751130785681
+                  },
+                  {
+                    "content": "음",
+                    "nickname": "도도킹",
+                    "createTime": 1751130781142
+                  },
+                  {
+                    "content": "예.. 아까 당했어요..",
+                    "nickname": "정신차려타이거즈",
+                    "createTime": 1751130775291
+                  },
+                  {
+                    "content": "할수잇다 ㅋㅋ",
+                    "nickname": "도도킹",
+                    "createTime": 1751130765350
+                  },
+                  {
+                    "content": "나 꼭 가고프다",
+                    "nickname": "우석잉",
+                    "createTime": 1751130763439
+                  },
+                  {
+                    "content": "ㅠㅠㅠ 할수있겠지?",
+                    "nickname": "우석잉",
+                    "createTime": 1751130755661
+                  },
+                  {
+                    "content": "그러게요..",
+                    "nickname": "정신차려타이거즈",
+                    "createTime": 1751130753776
+                  },
+                  {
+                    "content": "그거 하면 왜 뭐라해요?",
+                    "nickname": "도도킹",
+                    "createTime": 1751130749850
+                  },
+                  {
+                    "content": "아무자리 두자리 해버려",
+                    "nickname": "도도킹",
+                    "createTime": 1751130742307
+                  },
+                  {
+                    "content": "그… 그거.. 금요일 경기 아쉽다고 말하지마요 ㅋ 저도 그거 말하다가 당했음요..",
+                    "nickname": "정신차려타이거즈",
+                    "createTime": 1751130740504
+                  },
+                  {
+                    "content": "들가자마자",
+                    "nickname": "도도킹",
+                    "createTime": 1751130736829
+                  },
+                  {
+                    "content": "ㅋㅋㅋ",
+                    "nickname": "도도킹",
+                    "createTime": 1751130734630
+                  },
+                  {
+                    "content": "마잨ㅋㅋ아무자리나 해도 될듯",
+                    "nickname": "우석잉",
+                    "createTime": 1751130732150
+                  },
+                  {
+                    "content": "야없날 유일한 즐거움이네",
+                    "nickname": "도도킹",
+                    "createTime": 1751130731633
+                  },
+                  {
+                    "content": "머리 깨지겠엉.. 몇번을 빡치는거야.",
+                    "nickname": "해태타이거즈",
+                    "createTime": 1751130715888
+                  },
+                  {
+                    "content": "화이팅!!!! ㅜ 야구없는날이네",
+                    "nickname": "우석잉",
+                    "createTime": 1751130715869
+                  },
+                  {
+                    "content": "아무자리 두자리 해야해 ㅋㅋ",
+                    "nickname": "도도킹",
+                    "createTime": 1751130712790
+                  },
+                  {
+                    "content": "5천장 선에매라",
+                    "nickname": "도도킹",
+                    "createTime": 1751130709210
+                  },
+                  {
+                    "content": "하.. 씨..",
+                    "nickname": "정신차려타이거즈",
+                    "createTime": 1751130706670
+                  }
+                ]
+              }
+            ],
+            "talkSectionId": "BASEBALL_KOREA"
+          },
+          "moreButtonUrl": "https://talks.naver.com/?frm=pcgnb&anchor=sports&category=BASEBALL_KOREA"
+        },
+        "html": null
+      },
+      {
+        "itemId": "1747637168125",
+        "templateId": "section_today_match_template",
+        "json": {
+          "scheduleUrl": "https://m.sports.naver.com/kbaseball/schedule/index",
+          "schedules": [
+            {
+              "gameId": "20250628HTLG02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "잠실",
+              "title": "KIA vs LG",
+              "home": {
+                "teamCode": "HT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HT.png",
+                "myTeamCode": "kbo_HT",
+                "teamName": "KIA",
+                "teamScore": 9,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "LG",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LG.png",
+                "myTeamCode": "kbo_LG",
+                "teamName": "LG",
+                "teamScore": 8,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "기록",
+              "landingUrl": "https://m.sports.naver.com/game/20250628HTLG02025/record",
+              "gameStartTime": "2025-06-28 17:00:00",
+              "statusCode": "RESULT",
+              "statusInfo": "종료",
+              "winner": "HOME",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 43197,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": true,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250628HHSK02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "문학",
+              "title": "한화 vs SSG",
+              "home": {
+                "teamCode": "HH",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HH.png",
+                "myTeamCode": "kbo_HH",
+                "teamName": "한화",
+                "teamScore": 5,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "SK",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SK.png",
+                "myTeamCode": "kbo_SK",
+                "teamName": "SSG",
+                "teamScore": 2,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "기록",
+              "landingUrl": "https://m.sports.naver.com/game/20250628HHSK02025/record",
+              "gameStartTime": "2025-06-28 17:00:00",
+              "statusCode": "RESULT",
+              "statusInfo": "종료",
+              "winner": "HOME",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 27972,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": true,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250628KTLT02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "사직",
+              "title": "KT vs 롯데",
+              "home": {
+                "teamCode": "KT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/KT.png",
+                "myTeamCode": "kbo_KT",
+                "teamName": "KT",
+                "teamScore": 4,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "LT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LT.png",
+                "myTeamCode": "kbo_LT",
+                "teamName": "롯데",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "기록",
+              "landingUrl": "https://m.sports.naver.com/game/20250628KTLT02025/record",
+              "gameStartTime": "2025-06-28 17:00:00",
+              "statusCode": "RESULT",
+              "statusInfo": "종료",
+              "winner": "HOME",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 17739,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": true,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250628SSWO02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "고척",
+              "title": "삼성 vs 키움",
+              "home": {
+                "teamCode": "SS",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SS.png",
+                "myTeamCode": "kbo_SS",
+                "teamName": "삼성",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "WO",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/WO.png",
+                "myTeamCode": "kbo_WO",
+                "teamName": "키움",
+                "teamScore": 9,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "기록",
+              "landingUrl": "https://m.sports.naver.com/game/20250628SSWO02025/record",
+              "gameStartTime": "2025-06-28 17:00:00",
+              "statusCode": "RESULT",
+              "statusInfo": "종료",
+              "winner": "AWAY",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 12674,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": true,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250628OBNC02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "창원",
+              "title": "두산 vs NC",
+              "home": {
+                "teamCode": "OB",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/OB.png",
+                "myTeamCode": "kbo_OB",
+                "teamName": "두산",
+                "teamScore": 1,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "NC",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/NC.png",
+                "myTeamCode": "kbo_NC",
+                "teamName": "NC",
+                "teamScore": 3,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "기록",
+              "landingUrl": "https://m.sports.naver.com/game/20250628OBNC02025/record",
+              "gameStartTime": "2025-06-28 17:00:00",
+              "statusCode": "RESULT",
+              "statusInfo": "종료",
+              "winner": "AWAY",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 3174,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": true,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250629SSWO02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "고척",
+              "title": "삼성 vs 키움",
+              "home": {
+                "teamCode": "SS",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SS.png",
+                "myTeamCode": "kbo_SS",
+                "teamName": "삼성",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "WO",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/WO.png",
+                "myTeamCode": "kbo_WO",
+                "teamName": "키움",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250629SSWO02025/cheer",
+              "gameStartTime": "2025-06-29 14:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "14:00 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 355,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250629CHITCHIT1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "칫칫 야구 소통중계",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/56f381a28d4e414b90306d28ae050e41?tracking_code=sports_home_live",
+              "gameStartTime": "2025-06-29 16:45:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "16:45 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": false
+            },
+            {
+              "gameId": "20250629BMBC1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "염종석 X 김동현 롯데 편파중계",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/6c837d7222ccc4431ca7835a4340be8e?tracking_code=sports_home_live",
+              "gameStartTime": "2025-06-29 16:50:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "16:50 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": false
+            },
+            {
+              "gameId": "20250629KTLT02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "사직",
+              "title": "KT vs 롯데",
+              "home": {
+                "teamCode": "KT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/KT.png",
+                "myTeamCode": "kbo_KT",
+                "teamName": "KT",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "LT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LT.png",
+                "myTeamCode": "kbo_LT",
+                "teamName": "롯데",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250629KTLT02025/cheer",
+              "gameStartTime": "2025-06-29 17:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "17:00 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 523,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250629HTLG02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "잠실",
+              "title": "KIA vs LG",
+              "home": {
+                "teamCode": "HT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HT.png",
+                "myTeamCode": "kbo_HT",
+                "teamName": "KIA",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "LG",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LG.png",
+                "myTeamCode": "kbo_LG",
+                "teamName": "LG",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250629HTLG02025/cheer",
+              "gameStartTime": "2025-06-29 17:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "17:00 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 427,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250629HHSK02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "문학",
+              "title": "한화 vs SSG",
+              "home": {
+                "teamCode": "HH",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HH.png",
+                "myTeamCode": "kbo_HH",
+                "teamName": "한화",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "SK",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SK.png",
+                "myTeamCode": "kbo_SK",
+                "teamName": "SSG",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250629HHSK02025/cheer",
+              "gameStartTime": "2025-06-29 17:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "17:00 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 269,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250629OBNC02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "창원",
+              "title": "두산 vs NC",
+              "home": {
+                "teamCode": "OB",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/OB.png",
+                "myTeamCode": "kbo_OB",
+                "teamName": "두산",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "NC",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/NC.png",
+                "myTeamCode": "kbo_NC",
+                "teamName": "NC",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250629OBNC02025/cheer",
+              "gameStartTime": "2025-06-29 17:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "17:00 예정",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 74,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250630KBO1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "크보오프너",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/a2c10cd008a4935873a3ba020462d9ea?tracking_code=sports_home_live",
+              "gameStartTime": "2025-06-30 17:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "06.30 17:00",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250630SCBASEBALL1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "야구부장",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/0c1280b9db51be30986cc4f5d43df4c9?tracking_code=sports_home_live",
+              "gameStartTime": "2025-06-30 19:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "06.30 19:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250630SPORTSN1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "스포츠N플러스 - 닥터류의 월요진단",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/c7a89dacc428d3e620fe889d6f1fa7c0?tracking_code=sports_home_live",
+              "gameStartTime": "2025-06-30 22:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "06.30 22:00",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250701BL1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "베이스볼 런치 : 브런치 라이브",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/c3537801bb7386359a7af33f79b81f40?tracking_code=sports_home_live",
+              "gameStartTime": "2025-07-01 10:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 10:00",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": false
+            },
+            {
+              "gameId": "20250701KBO1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "크보오프너",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/a2c10cd008a4935873a3ba020462d9ea?tracking_code=sports_home_live",
+              "gameStartTime": "2025-07-01 17:00:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 17:00",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": false
+            },
+            {
+              "gameId": "20250701CHITCHIT1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "칫칫 야구 소통중계",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/56f381a28d4e414b90306d28ae050e41?tracking_code=sports_home_live",
+              "gameStartTime": "2025-07-01 18:15:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:15",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": false
+            },
+            {
+              "gameId": "20250701LGLT02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "사직",
+              "title": "LG vs 롯데",
+              "home": {
+                "teamCode": "LG",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LG.png",
+                "myTeamCode": "kbo_LG",
+                "teamName": "LG",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "LT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/LT.png",
+                "myTeamCode": "kbo_LT",
+                "teamName": "롯데",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250701LGLT02025/cheer",
+              "gameStartTime": "2025-07-01 18:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 48,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250701WOKT02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "수원",
+              "title": "키움 vs KT",
+              "home": {
+                "teamCode": "WO",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/WO.png",
+                "myTeamCode": "kbo_WO",
+                "teamName": "키움",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "KT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/KT.png",
+                "myTeamCode": "kbo_KT",
+                "teamName": "KT",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250701WOKT02025/cheer",
+              "gameStartTime": "2025-07-01 18:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 21,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250701SSOB02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "잠실",
+              "title": "삼성 vs 두산",
+              "home": {
+                "teamCode": "SS",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SS.png",
+                "myTeamCode": "kbo_SS",
+                "teamName": "삼성",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "OB",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/OB.png",
+                "myTeamCode": "kbo_OB",
+                "teamName": "두산",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250701SSOB02025/cheer",
+              "gameStartTime": "2025-07-01 18:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 20,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250701SKHT02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "광주",
+              "title": "SSG vs KIA",
+              "home": {
+                "teamCode": "SK",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/SK.png",
+                "myTeamCode": "kbo_SK",
+                "teamName": "SSG",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "HT",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HT.png",
+                "myTeamCode": "kbo_HT",
+                "teamName": "KIA",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250701SKHT02025/cheer",
+              "gameStartTime": "2025-07-01 18:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 20,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250701NCHH02025",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbo",
+              "categoryName": "KBO",
+              "displayType": "vs",
+              "stadium": "대전(신)",
+              "title": "NC vs 한화",
+              "home": {
+                "teamCode": "NC",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/NC.png",
+                "myTeamCode": "kbo_NC",
+                "teamName": "NC",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "HH",
+                "emblemUrl": "https://sports-phinf.pstatic.net/team/kbo/default/HH.png",
+                "myTeamCode": "kbo_HH",
+                "teamName": "한화",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://m.sports.naver.com/game/20250701NCHH02025/cheer",
+              "gameStartTime": "2025-07-01 18:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 14,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": false,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": true
+            },
+            {
+              "gameId": "20250701BMBC1",
+              "upperCategoryId": "kbaseball",
+              "categoryId": "kbaseballetc",
+              "categoryName": "국내야구",
+              "displayType": "text",
+              "stadium": "",
+              "title": "신본기 X 김동현 롯데 편파중계",
+              "home": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "away": {
+                "teamCode": "",
+                "emblemUrl": null,
+                "myTeamCode": "kbaseballetc_",
+                "teamName": "",
+                "teamScore": 0,
+                "penaltyScore": 0
+              },
+              "landingButtonText": "응원",
+              "landingUrl": "https://chzzk.naver.com/live/6c837d7222ccc4431ca7835a4340be8e?tracking_code=sports_home_live",
+              "gameStartTime": "2025-07-01 18:30:00",
+              "statusCode": "BEFORE",
+              "statusInfo": "07.01 18:30",
+              "winner": "DRAW",
+              "hasPtSore": false,
+              "suspended": false,
+              "cancel": false,
+              "cheerTalkCount": 0,
+              "liveInfo": {
+                "images": [
+                  "https://sports-phinf.pstatic.net/20201019_234/1603086763421sxNLT_PNG/01_baseball.png"
+                ],
+                "liveCurrentView": 0
+              },
+              "pv": 0,
+              "gameOnAir": false,
+              "scheduledTv": true,
+              "hasCustomLiveThumbnail": false,
+              "nvmFixed": false,
+              "disciplineTabFixed": false,
+              "hasVideo": false,
+              "mainTabExposed": false
+            }
+          ],
+          "sectionId": "kbaseball",
+          "type": "MATCHBOX"
+        },
+        "html": null
+      }
+    ]
+  }
+}

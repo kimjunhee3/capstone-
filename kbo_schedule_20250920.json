@@ -1,0 +1,1127 @@
+[
+  {
+    "date": "20250920",
+    "time": "경기 시간17:00",
+    "status": "종료",
+    "away_team": "한화",
+    "away_starter": "패폰세",
+    "home_team": "KT",
+    "home_starter": "승고영표",
+    "stadium": "경기장수원",
+    "matchup": "한화 vs KT",
+    "match_url": "https://m.sports.naver.com/game/20250920HHKT02025",
+    "detail_info": {
+      "away_team_info": {
+        "name": "한화",
+        "rank": "2위",
+        "record": {
+          "wins": "80승",
+          "draws": "3무",
+          "losses": "53패"
+        }
+      },
+      "home_team_info": {
+        "name": "KT",
+        "rank": "5위",
+        "record": {
+          "wins": "66승",
+          "draws": "4무",
+          "losses": "66패"
+        }
+      },
+      "team_comparison": {
+        "recent_games": {
+          "away": [
+            "패",
+            "승",
+            "승",
+            "승",
+            "승"
+          ],
+          "home": [
+            "패",
+            "패",
+            "패",
+            "패",
+            "승"
+          ]
+        },
+        "승률": {
+          "away": "0.602",
+          "home": "0.500"
+        },
+        "타율": {
+          "away": "0.268",
+          "home": "0.252"
+        },
+        "평균자책": {
+          "away": "3.51",
+          "home": "4.16"
+        },
+        "head_to_head": {
+          "away": [
+            "9승",
+            "0무",
+            "5패"
+          ],
+          "home": [
+            "5승",
+            "0무",
+            "9패"
+          ]
+        }
+      },
+      "starter_pitchers": {
+        "away": {
+          "name": "폰세",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/55730.png?type=w150"
+        },
+        "home": {
+          "name": "고영표",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/64001.png?type=w150"
+        }
+      },
+      "starter_comparison": {
+        "승패": {
+          "away": "17승0패",
+          "home": "10승6패"
+        },
+        "이닝": {
+          "away": "169 2/3",
+          "home": "147 2/3"
+        },
+        "평균 자책": {
+          "away": "1.70",
+          "home": "3.11"
+        },
+        "WHIP": {
+          "away": "0.90",
+          "home": "1.23"
+        },
+        "상대전적": {
+          "away": "4승0패평균자책0.93",
+          "home": "0승1패평균자책3.75"
+        }
+      },
+      "pitch_types": {
+        "away": [
+          {
+            "type": "직구",
+            "speed": "151km/h",
+            "rate": "45%"
+          },
+          {
+            "type": "체인지업",
+            "speed": "139km/h",
+            "rate": "17%"
+          },
+          {
+            "type": "커브",
+            "speed": "128km/h",
+            "rate": "16%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "22%"
+          }
+        ],
+        "home": [
+          {
+            "type": "체인지업",
+            "speed": "115km/h",
+            "rate": "47%"
+          },
+          {
+            "type": "투심",
+            "speed": "133km/h",
+            "rate": "36%"
+          },
+          {
+            "type": "커브",
+            "speed": "114km/h",
+            "rate": "10%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "7%"
+          }
+        ]
+      },
+      "key_players": {
+        "away": {
+          "name": "황영묵",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/54795.png?type=w150"
+        },
+        "home": {
+          "name": "장진혁",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/66706.png?type=w150"
+        }
+      },
+      "key_player_comparison": {
+        "타율": {
+          "away": "0.270",
+          "home": "0.200"
+        },
+        "안타": {
+          "away": "66",
+          "home": "26"
+        },
+        "홈런": {
+          "away": "1",
+          "home": "3"
+        },
+        "타점": {
+          "away": "19",
+          "home": "16"
+        },
+        "상대전적": {
+          "away": "타율 0.353 안타 6 홈런 0",
+          "home": "타율 0.000 안타 0 홈런 0"
+        },
+        "최근 5경기": {
+          "away": "타율 0.556 안타 5 홈런 0",
+          "home": "타율 0.429 안타 3 홈런 1"
+        }
+      },
+      "hot_cold_zone": {
+        "away": {
+          "player_name": "황영묵",
+          "zones": [
+            "0.154",
+            "0.167",
+            "0.118",
+            "0.156",
+            "0.200",
+            "0.333",
+            "0.286",
+            "0.353",
+            "0.412",
+            "0.346",
+            "0.300",
+            "0.500",
+            "0.259"
+          ]
+        },
+        "home": {
+          "player_name": "장진혁",
+          "zones": [
+            "0.000",
+            "0.000",
+            "0.100",
+            "0.105",
+            "0.125",
+            "0.000",
+            "0.222",
+            "0.714",
+            "0.429",
+            "0.286",
+            "0.250",
+            "0.214",
+            "0.182"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "date": "20250920",
+    "time": "경기 시간17:00",
+    "status": "종료",
+    "away_team": "NC",
+    "away_starter": "패임지민",
+    "home_team": "KIA",
+    "home_starter": "승조상우",
+    "stadium": "경기장광주",
+    "matchup": "NC vs KIA",
+    "match_url": "https://m.sports.naver.com/game/20250920NCHT02025",
+    "detail_info": {
+      "away_team_info": {
+        "name": "NC",
+        "rank": "7위",
+        "record": {
+          "wins": "62승",
+          "draws": "6무",
+          "losses": "66패"
+        }
+      },
+      "home_team_info": {
+        "name": "KIA",
+        "rank": "8위",
+        "record": {
+          "wins": "61승",
+          "draws": "4무",
+          "losses": "69패"
+        }
+      },
+      "team_comparison": {
+        "recent_games": {
+          "away": [
+            "승",
+            "패",
+            "승",
+            "패",
+            "패"
+          ],
+          "home": [
+            "패",
+            "패",
+            "패",
+            "패",
+            "승"
+          ]
+        },
+        "승률": {
+          "away": "0.484",
+          "home": "0.469"
+        },
+        "타율": {
+          "away": "0.258",
+          "home": "0.260"
+        },
+        "평균자책": {
+          "away": "4.95",
+          "home": "4.65"
+        },
+        "head_to_head": {
+          "away": [
+            "6승",
+            "0무",
+            "6패"
+          ],
+          "home": [
+            "6승",
+            "0무",
+            "6패"
+          ]
+        }
+      },
+      "starter_pitchers": {
+        "away": {
+          "name": "김녹원",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/52995.png?type=w150"
+        },
+        "home": {
+          "name": "양현종",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/77637.png?type=w150"
+        }
+      },
+      "starter_comparison": {
+        "승패": {
+          "away": "2승4패",
+          "home": "7승8패"
+        },
+        "이닝": {
+          "away": "61 1/3",
+          "home": "139"
+        },
+        "평균 자책": {
+          "away": "6.90",
+          "home": "4.73"
+        },
+        "WHIP": {
+          "away": "1.81",
+          "home": "1.49"
+        },
+        "상대전적": {
+          "away": "0승0패평균자책0.00",
+          "home": "1승2패평균자책5.06"
+        }
+      },
+      "pitch_types": {
+        "away": [
+          {
+            "type": "직구",
+            "speed": "145km/h",
+            "rate": "44%"
+          },
+          {
+            "type": "체인지업",
+            "speed": "133km/h",
+            "rate": "29%"
+          },
+          {
+            "type": "슬라이더",
+            "speed": "136km/h",
+            "rate": "20%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "7%"
+          }
+        ],
+        "home": [
+          {
+            "type": "직구",
+            "speed": "139km/h",
+            "rate": "49%"
+          },
+          {
+            "type": "체인지업",
+            "speed": "127km/h",
+            "rate": "27%"
+          },
+          {
+            "type": "슬라이더",
+            "speed": "128km/h",
+            "rate": "19%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "5%"
+          }
+        ]
+      },
+      "key_players": {
+        "away": {
+          "name": "이우성",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/63260.png?type=w150"
+        },
+        "home": {
+          "name": "박찬호",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/64646.png?type=w150"
+        }
+      },
+      "key_player_comparison": {
+        "타율": {
+          "away": "0.252",
+          "home": "0.292"
+        },
+        "안타": {
+          "away": "68",
+          "home": "141"
+        },
+        "홈런": {
+          "away": "3",
+          "home": "5"
+        },
+        "타점": {
+          "away": "30",
+          "home": "38"
+        },
+        "상대전적": {
+          "away": "타율 0.091 안타 1 홈런 0",
+          "home": "타율 0.333 안타 16 홈런 2"
+        },
+        "최근 5경기": {
+          "away": "타율 0.417 안타 5 홈런 1",
+          "home": "타율 0.389 안타 7 홈런 1"
+        }
+      },
+      "hot_cold_zone": {
+        "away": {
+          "player_name": "이우성",
+          "zones": [
+            "0.111",
+            "0.083",
+            "0.167",
+            "0.000",
+            "0.440",
+            "0.167",
+            "0.318",
+            "0.217",
+            "0.381",
+            "0.238",
+            "0.159",
+            "0.353",
+            "0.450"
+          ]
+        },
+        "home": {
+          "player_name": "박찬호",
+          "zones": [
+            "0.143",
+            "0.224",
+            "0.245",
+            "0.188",
+            "0.333",
+            "0.289",
+            "0.320",
+            "0.294",
+            "0.333",
+            "0.355",
+            "0.361",
+            "0.205",
+            "0.464"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "date": "20250920",
+    "time": "경기 시간17:00",
+    "status": "종료",
+    "away_team": "두산",
+    "away_starter": "패최민석",
+    "home_team": "SSG",
+    "home_starter": "승화이트",
+    "stadium": "경기장문학",
+    "matchup": "두산 vs SSG",
+    "match_url": "https://m.sports.naver.com/game/20250920OBSK02025",
+    "detail_info": {
+      "away_team_info": {
+        "name": "두산",
+        "rank": "9위",
+        "record": {
+          "wins": "57승",
+          "draws": "6무",
+          "losses": "72패"
+        }
+      },
+      "home_team_info": {
+        "name": "SSG",
+        "rank": "3위",
+        "record": {
+          "wins": "67승",
+          "draws": "4무",
+          "losses": "61패"
+        }
+      },
+      "team_comparison": {
+        "recent_games": {
+          "away": [
+            "패",
+            "패",
+            "패",
+            "패",
+            "승"
+          ],
+          "home": [
+            "패",
+            "승",
+            "패",
+            "승",
+            "패"
+          ]
+        },
+        "승률": {
+          "away": "0.442",
+          "home": "0.523"
+        },
+        "타율": {
+          "away": "0.263",
+          "home": "0.255"
+        },
+        "평균자책": {
+          "away": "4.32",
+          "home": "3.62"
+        },
+        "head_to_head": {
+          "away": [
+            "5승",
+            "0무",
+            "7패"
+          ],
+          "home": [
+            "7승",
+            "0무",
+            "5패"
+          ]
+        }
+      },
+      "starter_pitchers": {
+        "away": {
+          "name": "최민석",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/55268.png?type=w150"
+        },
+        "home": {
+          "name": "화이트",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/55855.png?type=w150"
+        }
+      },
+      "starter_comparison": {
+        "승패": {
+          "away": "3승2패",
+          "home": "9승4패"
+        },
+        "이닝": {
+          "away": "74 2/3",
+          "home": "122 2/3"
+        },
+        "평균 자책": {
+          "away": "3.98",
+          "home": "3.01"
+        },
+        "WHIP": {
+          "away": "1.29",
+          "home": "1.17"
+        },
+        "상대전적": {
+          "away": "0승1패평균자책1.64",
+          "home": "0승1패평균자책9.53"
+        }
+      },
+      "pitch_types": {
+        "away": [
+          {
+            "type": "투심",
+            "speed": "142km/h",
+            "rate": "53%"
+          },
+          {
+            "type": "슬라이더",
+            "speed": "130km/h",
+            "rate": "34%"
+          },
+          {
+            "type": "포크",
+            "speed": "133km/h",
+            "rate": "13%"
+          }
+        ],
+        "home": [
+          {
+            "type": "직구",
+            "speed": "150km/h",
+            "rate": "46%"
+          },
+          {
+            "type": "커브",
+            "speed": "125km/h",
+            "rate": "20%"
+          },
+          {
+            "type": "커터",
+            "speed": "142km/h",
+            "rate": "18%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "16%"
+          }
+        ]
+      },
+      "key_players": {
+        "away": {
+          "name": "박지훈",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/50204.png?type=w150"
+        },
+        "home": {
+          "name": "최지훈",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/50854.png?type=w150"
+        }
+      },
+      "key_player_comparison": {
+        "타율": {
+          "away": "0.333",
+          "home": "0.277"
+        },
+        "안타": {
+          "away": "4",
+          "home": "134"
+        },
+        "홈런": {
+          "away": "1",
+          "home": "6"
+        },
+        "타점": {
+          "away": "2",
+          "home": "38"
+        },
+        "상대전적": {
+          "away": "타율 0.000 안타 0 홈런 0",
+          "home": "타율 0.341 안타 14 홈런 0"
+        },
+        "최근 5경기": {
+          "away": "타율 0.500 안타 3 홈런 1",
+          "home": "타율 0.550 안타 11 홈런 2"
+        }
+      },
+      "hot_cold_zone": {
+        "away": {
+          "player_name": "박지훈",
+          "zones": [
+            "0.500",
+            "0.000",
+            "0.333",
+            "0.000",
+            "1.000",
+            "0.000",
+            "0.000",
+            "0.000",
+            "-",
+            "0.000",
+            "0.000",
+            "0.000",
+            "1.000"
+          ]
+        },
+        "home": {
+          "player_name": "최지훈",
+          "zones": [
+            "0.167",
+            "0.172",
+            "0.217",
+            "0.236",
+            "0.273",
+            "0.360",
+            "0.371",
+            "0.231",
+            "0.355",
+            "0.320",
+            "0.326",
+            "0.200",
+            "0.361"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "date": "20250920",
+    "time": "경기 시간17:00",
+    "status": "종료",
+    "away_team": "삼성",
+    "away_starter": "승원태인",
+    "home_team": "LG",
+    "home_starter": "패톨허스트",
+    "stadium": "경기장잠실",
+    "matchup": "삼성 vs LG",
+    "match_url": "https://m.sports.naver.com/game/20250920SSLG02025",
+    "detail_info": {
+      "away_team_info": {
+        "name": "삼성",
+        "rank": "4위",
+        "record": {
+          "wins": "68승",
+          "draws": "2무",
+          "losses": "65패"
+        }
+      },
+      "home_team_info": {
+        "name": "LG",
+        "rank": "1위",
+        "record": {
+          "wins": "83승",
+          "draws": "3무",
+          "losses": "50패"
+        }
+      },
+      "team_comparison": {
+        "recent_games": {
+          "away": [
+            "패",
+            "패",
+            "승",
+            "승",
+            "승"
+          ],
+          "home": [
+            "승",
+            "승",
+            "승",
+            "승",
+            "패"
+          ]
+        },
+        "승률": {
+          "away": "0.511",
+          "home": "0.624"
+        },
+        "타율": {
+          "away": "0.268",
+          "home": "0.279"
+        },
+        "평균자책": {
+          "away": "4.12",
+          "home": "3.64"
+        },
+        "head_to_head": {
+          "away": [
+            "6승",
+            "0무",
+            "9패"
+          ],
+          "home": [
+            "9승",
+            "0무",
+            "6패"
+          ]
+        }
+      },
+      "starter_pitchers": {
+        "away": {
+          "name": "원태인",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/69446.png?type=w150"
+        },
+        "home": {
+          "name": "톨허스트",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/55130.png?type=w150"
+        }
+      },
+      "starter_comparison": {
+        "승패": {
+          "away": "11승4패",
+          "home": "5승1패"
+        },
+        "이닝": {
+          "away": "154 2/3",
+          "home": "35"
+        },
+        "평균 자책": {
+          "away": "3.26",
+          "home": "1.54"
+        },
+        "WHIP": {
+          "away": "1.09",
+          "home": "1.09"
+        },
+        "상대전적": {
+          "away": "2승0패평균자책2.50",
+          "home": "0승0패평균자책0.00"
+        }
+      },
+      "pitch_types": {
+        "away": [
+          {
+            "type": "직구",
+            "speed": "144km/h",
+            "rate": "43%"
+          },
+          {
+            "type": "슬라이더",
+            "speed": "133km/h",
+            "rate": "27%"
+          },
+          {
+            "type": "체인지업",
+            "speed": "125km/h",
+            "rate": "20%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "10%"
+          }
+        ],
+        "home": [
+          {
+            "type": "직구",
+            "speed": "150km/h",
+            "rate": "42%"
+          },
+          {
+            "type": "커터",
+            "speed": "139km/h",
+            "rate": "20%"
+          },
+          {
+            "type": "포크",
+            "speed": "134km/h",
+            "rate": "19%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "19%"
+          }
+        ]
+      },
+      "key_players": {
+        "away": {
+          "name": "류지혁",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/62234.png?type=w150"
+        },
+        "home": {
+          "name": "오스틴",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/53123.png?type=w150"
+        }
+      },
+      "key_player_comparison": {
+        "타율": {
+          "away": "0.277",
+          "home": "0.310"
+        },
+        "안타": {
+          "away": "104",
+          "home": "123"
+        },
+        "홈런": {
+          "away": "1",
+          "home": "28"
+        },
+        "타점": {
+          "away": "36",
+          "home": "85"
+        },
+        "상대전적": {
+          "away": "타율 0.350 안타 14 홈런 0",
+          "home": "타율 0.294 안타 5 홈런 0"
+        },
+        "최근 5경기": {
+          "away": "타율 0.455 안타 5 홈런 0",
+          "home": "타율 0.611 안타 11 홈런 3"
+        }
+      },
+      "hot_cold_zone": {
+        "away": {
+          "player_name": "류지혁",
+          "zones": [
+            "0.250",
+            "0.100",
+            "0.160",
+            "0.205",
+            "0.303",
+            "0.276",
+            "0.241",
+            "0.308",
+            "0.481",
+            "0.357",
+            "0.244",
+            "0.306",
+            "0.276"
+          ]
+        },
+        "home": {
+          "player_name": "오스틴",
+          "zones": [
+            "0.316",
+            "0.200",
+            "0.250",
+            "0.333",
+            "0.387",
+            "0.462",
+            "0.333",
+            "0.367",
+            "0.292",
+            "0.351",
+            "0.211",
+            "0.370",
+            "0.263"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "date": "20250920",
+    "time": "경기 시간17:00",
+    "status": "종료",
+    "away_team": "키움",
+    "away_starter": "승박주성",
+    "home_team": "롯데",
+    "home_starter": "패감보아",
+    "stadium": "경기장사직",
+    "matchup": "키움 vs 롯데",
+    "match_url": "https://m.sports.naver.com/game/20250920WOLT02025",
+    "detail_info": {
+      "away_team_info": {
+        "name": "키움",
+        "rank": "10위",
+        "record": {
+          "wins": "46승",
+          "draws": "4무",
+          "losses": "88패"
+        }
+      },
+      "home_team_info": {
+        "name": "롯데",
+        "rank": "5위",
+        "record": {
+          "wins": "65승",
+          "draws": "6무",
+          "losses": "65패"
+        }
+      },
+      "team_comparison": {
+        "recent_games": {
+          "away": [
+            "승",
+            "패",
+            "승",
+            "승",
+            "패"
+          ],
+          "home": [
+            "승",
+            "패",
+            "승",
+            "승",
+            "패"
+          ]
+        },
+        "승률": {
+          "away": "0.343",
+          "home": "0.500"
+        },
+        "타율": {
+          "away": "0.244",
+          "home": "0.271"
+        },
+        "평균자책": {
+          "away": "5.44",
+          "home": "4.61"
+        },
+        "head_to_head": {
+          "away": [
+            "4승",
+            "0무",
+            "11패"
+          ],
+          "home": [
+            "11승",
+            "0무",
+            "4패"
+          ]
+        }
+      },
+      "starter_pitchers": {
+        "away": {
+          "name": "박정훈",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/55394.png?type=w150"
+        },
+        "home": {
+          "name": "감보아",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/55532.png?type=w150"
+        }
+      },
+      "starter_comparison": {
+        "승패": {
+          "away": "0승1패",
+          "home": "7승6패"
+        },
+        "이닝": {
+          "away": "22 1/3",
+          "home": "99 2/3"
+        },
+        "평균 자책": {
+          "away": "6.04",
+          "home": "2.80"
+        },
+        "WHIP": {
+          "away": "1.70",
+          "home": "1.27"
+        },
+        "상대전적": {
+          "away": "0승0패평균자책0.00",
+          "home": "2승0패평균자책0.00"
+        }
+      },
+      "pitch_types": {
+        "away": [
+          {
+            "type": "직구",
+            "speed": "145km/h",
+            "rate": "52%"
+          },
+          {
+            "type": "슬라이더",
+            "speed": "132km/h",
+            "rate": "32%"
+          },
+          {
+            "type": "체인지업",
+            "speed": "130km/h",
+            "rate": "9%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "7%"
+          }
+        ],
+        "home": [
+          {
+            "type": "직구",
+            "speed": "151km/h",
+            "rate": "59%"
+          },
+          {
+            "type": "슬라이더",
+            "speed": "138km/h",
+            "rate": "25%"
+          },
+          {
+            "type": "체인지업",
+            "speed": "135km/h",
+            "rate": "9%"
+          },
+          {
+            "type": "그 외",
+            "speed": "",
+            "rate": "7%"
+          }
+        ]
+      },
+      "key_players": {
+        "away": {
+          "name": "박주홍",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/50357.png?type=w150"
+        },
+        "home": {
+          "name": "전준우",
+          "image": "https://sports-phinf.pstatic.net/player/kbo/default/78513.png?type=w150"
+        }
+      },
+      "key_player_comparison": {
+        "타율": {
+          "away": "0.235",
+          "home": "0.295"
+        },
+        "안타": {
+          "away": "53",
+          "home": "112"
+        },
+        "홈런": {
+          "away": "3",
+          "home": "8"
+        },
+        "타점": {
+          "away": "23",
+          "home": "67"
+        },
+        "상대전적": {
+          "away": "타율 0.071 안타 1 홈런 0",
+          "home": "타율 0.327 안타 16 홈런 2"
+        },
+        "최근 5경기": {
+          "away": "타율 0.400 안타 8 홈런 0",
+          "home": "타율 0.800 안타 4 홈런 1"
+        }
+      },
+      "hot_cold_zone": {
+        "away": {
+          "player_name": "박주홍",
+          "zones": [
+            "0.273",
+            "0.250",
+            "0.067",
+            "0.219",
+            "0.214",
+            "0.167",
+            "0.105",
+            "0.176",
+            "0.417",
+            "0.167",
+            "0.250",
+            "0.368",
+            "0.345"
+          ]
+        },
+        "home": {
+          "player_name": "전준우",
+          "zones": [
+            "0.346",
+            "0.056",
+            "0.159",
+            "0.323",
+            "0.500",
+            "0.308",
+            "0.286",
+            "0.364",
+            "0.321",
+            "0.250",
+            "0.294",
+            "0.323",
+            "0.314"
+          ]
+        }
+      }
+    }
+  }
+]
